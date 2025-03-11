@@ -1,2 +1,2 @@
 # CODSOFT
-Internship Program of Coddoft
+Internship Program of Codsoft
